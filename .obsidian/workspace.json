@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "28969545bd3d2833",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5f0b085dc92439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d342914d415b4d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/DOM ( Document Object Model ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "207d0033b417e916",
+    "type": "split",
+    "children": [
+      {
+        "id": "2579b2b842030c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b15df59036efd001",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6763d9ff5207751b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad327c62bb8ddd7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a99757fa4bd48671",
+    "type": "split",
+    "children": [
+      {
+        "id": "3278208e6a10fc2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a007cab38f6d6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/DOM ( Document Object Model ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f83767f7b444b0f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/DOM ( Document Object Model ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1981c17723fb765c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c2ba0394c3544e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/DOM ( Document Object Model ).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d342914d415b4d99",
+  "lastOpenFiles": [
+    "JavaScript/DOM ( Document Object Model ).md",
+    "README.md",
+    "2023-10-17.md",
+    "Sin título.canvas",
+    "JavaScript"
+  ]
+}
