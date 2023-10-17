@@ -1,4 +1,7 @@
 {
-  "accentColor": "#90abfe",
-  "textFontFamily": "Consolas"
+  "accentColor": "#1c347d",
+  "textFontFamily": "Times New Roman",
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "Consolas",
+  "theme": "obsidian"
 }

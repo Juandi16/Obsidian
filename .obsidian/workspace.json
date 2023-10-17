@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b5f0b085dc92439",
+        "id": "137d18c153894519",
         "type": "tabs",
         "children": [
           {
-            "id": "d342914d415b4d99",
+            "id": "22209c4324730cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/DOM ( Document Object Model ).md",
+                "file": "📖Wiki-Programación📖/000-JavaScript/009-DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/DOM ( Document Object Model ).md",
+                "file": "📖Wiki-Programación📖/000-JavaScript/009-DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/DOM ( Document Object Model ).md",
+                "file": "📖Wiki-Programación📖/000-JavaScript/009-DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/DOM ( Document Object Model ).md"
+                "file": "📖Wiki-Programación📖/000-JavaScript/009-DOM.md"
               }
             }
+          },
+          {
+            "id": "68e545d0614b80a0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,15 +151,39 @@
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d342914d415b4d99",
+  "active": "22209c4324730cd0",
   "lastOpenFiles": [
-    "JavaScript/DOM ( Document Object Model ).md",
+    "📖Wiki-Programación📖/000-JavaScript/002-NUMBER.md",
+    "📖Wiki-Programación📖/000-JavaScript/001-INTRODUCCIÓN.md",
     "README.md",
+    "📖Wiki-Programación📖/000-JavaScript/009-DOM.md",
+    "📖Wiki-Programación📖/400-CSS",
+    "📖Wiki-Programación📖/000-JavaScript",
+    "📖Wiki-Programación📖/300-HTML",
+    "📖Wiki-Programación📖/200-SQL",
+    "📖Wiki-Programación📖/100-Java",
+    "📖Wiki-Programación📖",
+    "📖 Wiki-Programación 📖/400-CSS",
+    "📖 Wiki-Programación 📖/400-CSS.md",
+    "📖 Wiki-Programación 📖/000-JavaScript/009-DOM.md",
+    "📖 Wiki-Programación 📖/000-JavaScript/002-NUMBER.md",
+    "📖 Wiki-Programación 📖/000-JavaScript/001-INTRODUCCIÓN.md",
+    "📖 Wiki-Programación/000-JavaScript/DOM ( Document Object Model )/DOM.md",
+    "📖 Wiki-Programación 📖",
+    "📖 Wiki-Programación 📖/300-HTML",
+    "📖 Wiki-Programación 📖/200-SQL",
+    "📖 Wiki-Programación/000-JavaScript/ANEXOS/Pasted Image 20231017160404_582.png",
+    "Pasted Image 20231017160404_582.md",
+    "ANEXOS/README 2023-10-17 16.03.49.excalidraw.md",
+    "JavaScript/DOM ( Document Object Model ).md",
+    "JavaScript/ANEXOS/DOM ( Document Object Model ) 2023-10-17 15.53.56.excalidraw.md",
     "2023-10-17.md",
-    "Sin título.canvas",
-    "JavaScript"
+    "Sin título.canvas"
   ]
 }
